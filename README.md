@@ -1,1 +1,1 @@
-# This is the demo of LanguageCodec.
+# This is the demo of Contorlspeech.
