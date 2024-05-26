@@ -451,6 +451,41 @@ table {
 </table>
 <br>
 
+<p>
+<b>Content Prompt:</b> "That's right", approved the great Personage, glancing down complacently over his double chin.
+<br>
+<b>Style Prompt:</b>The speaker spoke in a hurried, low murmur, each word soft but fast.
+</p> 
+<table>
+    <tr>
+        <th> GT</th>
+        <th> Generated</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/4/GT.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/4/Generated.wav" type="audio/mpeg"></audio> </th>
+    </tr> 
+</table>
+<br>
+
+
+<p>
+<b>Content Prompt:</b> I am safe back again.
+<br>
+<b>Style Prompt:</b>The speaker's intonation, unhurried and barely audible, carried a deep-seated note.
+</p> 
+<table>
+    <tr>
+        <th> GT</th>
+        <th> Generated</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/5/GT.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/5/Generated.wav" type="audio/mpeg"></audio> </th>
+    </tr> 
+</table>
+<br>
+
 
 ## One timber with multiple styles
 <p align="justify">ControlSpeech allows multiple style controls using one timbre.</p>
@@ -479,6 +514,30 @@ table {
         <td> The speaker conveyed speaker's thoughts in a high-pitched voice at a normal pace, portraying a sense of low energy.</td>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/Generated/3/3.wav" type="audio/mpeg"></audio> </th>
     </tr> 
+    <tr>
+        <td> The speaker communicated in an ordinary pitch, talking with a hint of normal energy.</td>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/add/37_215_000012_000000_4.wav" type="audio/mpeg"></audio> </th>
+    </tr> 
+    <tr>
+        <td> A deep-voiced speaker, speaking slowly and confidently, emanating a calm and collected energy with speaker's deliberate enunciation.</td>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/add/283_130638_000058_000000_4.wav" type="audio/mpeg"></audio> </th>
+    </tr> 
+    <tr>
+        <td> A speaker's speech had a normal pitch, conveyed at a regular pace with average energy.</td>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/add/7241_90852_000027_000005_4.wav" type="audio/mpeg"></audio> </th>
+    </tr> 
+    <tr>
+        <td> A contempt speaker communicates effectively with moderate energy.</td>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/add/14874_4.wav" type="audio/mpeg"></audio> </th>
+    </tr> 
+    <tr>
+        <td> Sharing insights, speaker gleefully communicates with normal energy.</td>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/add/40657_4.wav" type="audio/mpeg"></audio> </th>
+    </tr> 
+    <tr>
+        <td> The happy speaker spoke rapidly, speaker's tone remaining normal.</td>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/add/52732_4.wav" type="audio/mpeg"></audio> </th>
+    </tr> 
 </table>
 <br>
 
@@ -487,67 +546,101 @@ table {
 <p align="justify">ControlSpeech can use multiple timbres to correspond to one style.</p>
 
 <p>
-<b>Content Prompt:</b> The patient and the surgeon are both recuperating from the lengthy operation.
+<b>Content Prompt:</b> The patient and the surgeon are both recuperating from the lengthy operation.<br>
+<b>Style Prompt:</b> Her speaking rate is steady, and her contemptuous voice has a high pitch.
 <br>
 </p> 
 <table>
     <tr>
-        <th> Speakers</th>
-        <th> Style Prompt</th>
-        <th> Generated Wav</th>
+        <th> Speakers A</th>
+        <th> Speakers B</th>
     </tr>
     <tr>
-        <td rowspan="2">Spaker A</td>
-        <td> Her speaking rate is steady, and her contemptuous voice has a high pitch.</td>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker A with High Pitch.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-    <tr>
-        <td> A scornful woman with a low-pitched voice spoke.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker A with Low Pitch.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-    <tr>
-        <td rowspan="2">Spaker B</td>
-        <td> Her speaking rate is steady, and her contemptuous voice has a high pitch.</td>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker B with High Pitch.wav" type="audio/mpeg"></audio> </th>
     </tr> 
+</table>
+
+
+<p>
+<b>Content Prompt:</b> The patient and the surgeon are both recuperating from the lengthy operation.<br>
+<b>Style Prompt:</b> A scornful woman with a low-pitched voice spoke.
+<br>
+</p> 
+<table>
     <tr>
-        <td> A scornful woman with a low-pitched voice spoke.</td>
+        <th> Speakers A</th>
+        <th> Speakers B</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker A with Low Pitch.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker B with Low Pitch.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
+</table>
+
+
+<p>
+<b>Content Prompt:</b> The patient and the surgeon are both recuperating from the lengthy operation.<br>
+<b>Style Prompt:</b> In her disdainful normal tone, she spoke rapidly.
+<br>
+</p> 
+<table>
     <tr>
-        <td rowspan="2">Spaker C</td>
-        <td> In her disdainful normal tone, she spoke rapidly.</td>
+        <th> Speakers A</th>
+        <th> Speakers B</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker B with Fast Speed.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker A with Fast Speed.wav" type="audio/mpeg"></audio> </th>
     </tr> 
+</table>
+
+
+<p>
+<b>Content Prompt:</b> The patient and the surgeon are both recuperating from the lengthy operation.<br>
+<b>Style Prompt:</b> The contemptuous woman's speech unfolds slowly, with a normal tone.
+<br>
+</p> 
+<table>
     <tr>
-        <td> The contemptuous woman's speech unfolds slowly, with a normal tone.</td>
+        <th> Speakers A</th>
+        <th> Speakers B</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker B with Slow Speed.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker A with Slow Speed.wav" type="audio/mpeg"></audio> </th>
     </tr> 
+</table>
+
+
+<p>
+<b>Content Prompt:</b> The patient and the surgeon are both recuperating from the lengthy operation.<br>
+<b>Style Prompt:</b> A dismissive woman with a loud voice speaks normally.
+<br>
+</p> 
+<table>
     <tr>
-        <td rowspan="2">Spaker D</td>
-        <td> In her disdainful normal tone, she spoke rapidly.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker B with Fast Speed.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
+        <th> Speakers A</th>
+        <th> Speakers B</th>
+    </tr>
     <tr>
-        <td> The contemptuous woman's speech unfolds slowly, with a normal tone.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker B with Slow Speed.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-    <tr>
-        <td rowspan="2">Spaker E</td>
-        <td> A dismissive woman with a loud voice speaks normally.</td>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Normal Speed; High or Low Energy/Speaker A with High Energy.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-    <tr>
-        <td> The contemptuous girl's energy is low, but she speaks with a typical speed.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Normal Speed; High or Low Energy/Speaker A with Low Energy.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-        <tr>
-        <td rowspan="2">Spaker F</td>
-        <td> A dismissive woman with a loud voice speaks normally.</td>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Normal Speed; High or Low Energy/Speaker B with High Energy.wav" type="audio/mpeg"></audio> </th>
     </tr> 
+</table>
+
+
+<p>
+<b>Content Prompt:</b> The patient and the surgeon are both recuperating from the lengthy operation.<br>
+<b>Style Prompt:</b> The contemptuous girl's energy is low, but she speaks with a typical speed.
+<br>
+</p> 
+<table>
     <tr>
-        <td> The contemptuous girl's energy is low, but she speaks with a typical speed.</td>
+        <th> Speakers A</th>
+        <th> Speakers B</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Normal Speed; High or Low Energy/Speaker A with Low Energy.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Normal Speed; High or Low Energy/Speaker B with Low Energy.wav" type="audio/mpeg"></audio> </th>
     </tr> 
 </table>
