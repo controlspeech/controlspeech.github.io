@@ -45,7 +45,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> Here a customer came in.<br>
-<b>Style Prompt:</b> The speaker's tone was deep and captivating.
+<b>Style Prompt:</b> The speaker's tone was deep and captivating.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/1.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -67,7 +68,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> He would have withdrawn from the feast had not the noise of voices allayed the smart.<br>
-<b>Style Prompt:</b> A young speaker's low-energy, whispered speech is rapid.
+<b>Style Prompt:</b> A young speaker's low-energy, whispered speech is rapid.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/2.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -89,7 +91,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> Yes, captain, maybe so.<br>
-<b>Style Prompt:</b> A speaker, maintaining a standard pitch, engages in unhurried speech with a touch of normal energy.
+<b>Style Prompt:</b> A speaker, maintaining a standard pitch, engages in unhurried speech with a touch of normal energy.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/3.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -111,7 +114,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> He dropped the lighted shaving in a safe spot and put up his hands.<br>
-<b>Style Prompt:</b> Speaker's speaking rate is normal, despite speaker's voice's high pitch.
+<b>Style Prompt:</b> Speaker's speaking rate is normal, despite speaker's voice's high pitch.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/4.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -133,7 +137,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> He never comes to the pump room, I suppose?<br>
-<b>Style Prompt:</b> The speaker's energy is low, yet speaker's whispering speed is ordinary.
+<b>Style Prompt:</b> The speaker's energy is low, yet speaker's whispering speed is ordinary.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/5.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -155,7 +160,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> Then she cried quickly, "Stay, brother, stay! do not drink, or you will become a wild beast, and tear me to pieces."<br>
-<b>Style Prompt:</b> Speaking in a balanced tone and pace, speaker gets speaker's point across.
+<b>Style Prompt:</b> Speaking in a balanced tone and pace, speaker gets speaker's point across.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/6.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -178,7 +184,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> Fort lyon, colorado territory, december, eighteen seventy one.<br>
-<b>Style Prompt:</b> The speaker talks at a moderate speed, neither too fast nor slow.
+<b>Style Prompt:</b> The speaker talks at a moderate speed, neither too fast nor slow.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/7.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -201,7 +208,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> Once Layelah sat for some time silent and involved in thought.<br>
-<b>Style Prompt:</b> The speaker's low-pitched voice delivers speaker's message with a moderate level of energy and standard speaking speed.
+<b>Style Prompt:</b> The speaker's low-pitched voice delivers speaker's message with a moderate level of energy and standard speaking speed.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/8.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -223,7 +231,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> I see you just as feeble minded as you were before, and still expressing only despair!<br>
-<b>Style Prompt:</b> The speaker's high-energy speech is delivered swiftly, yet speaker's pitch remains steady.
+<b>Style Prompt:</b> The speaker's high-energy speech is delivered swiftly, yet speaker's pitch remains steady.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/9.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -245,7 +254,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> They'd never know I'd regular ran away.<br>
-<b>Style Prompt:</b> Speaker's speech maintains a usual pitch as speaker mournfully talks at a regular speed with a touch of standard energy.
+<b>Style Prompt:</b> Speaker's speech maintains a usual pitch as speaker mournfully talks at a regular speed with a touch of standard energy.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/10.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -267,7 +277,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> Hold up my chin, slow and solid.<br>
-<b>Style Prompt:</b> Speaking quickly and with a low-pitched voice, speaker amazedly embodies the liveliness associated with normalcy.
+<b>Style Prompt:</b> Speaking quickly and with a low-pitched voice, speaker amazedly embodies the liveliness associated with normalcy.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/11.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -289,7 +300,8 @@ table {
 
 <p>
 <b>Content Prompt:</b> It looks much better.<br>
-<b>Style Prompt:</b> Speaking rapidly in a low pitch, the surprised speaker's energy remains minimal.
+<b>Style Prompt:</b> Speaking rapidly in a low pitch, the surprised speaker's energy remains minimal.<br>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/12.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
@@ -316,11 +328,13 @@ table {
 <b>Content Prompt:</b> I was never in the county till my husband brought me here. Mrs Charmond did not care to pursue this line of investigation.
 <br>
 <b>Style Prompt:</b> The pitch of speaker's speech is within the norm.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> ControlSpeech(Ours)</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen/1/GT.wav" type="audio/mpeg"></audio> </th>
@@ -333,11 +347,13 @@ table {
 <b>Content Prompt:</b> It is made of silk or cotton.
 <br>
 <b>Style Prompt:</b> The speaker communicates with minimal energy.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> ControlSpeech(Ours)</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen/2/GT.wav" type="audio/mpeg"></audio> </th>
@@ -350,11 +366,13 @@ table {
 <b>Content Prompt:</b> She went away without saying any more.
 <br>
 <b>Style Prompt:</b> Speaking at a moderate speed, the speaker engages speaker's audience.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> ControlSpeech(Ours)</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen/3/GT.wav" type="audio/mpeg"></audio> </th>
@@ -367,11 +385,13 @@ table {
 <b>Content Prompt:</b> Such conduct didn't speak much for military discipline in those days.
 <br>
 <b>Style Prompt:</b> A speaker with a regular pitch talks swiftly, exuding a touch of moderate energy.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> ControlSpeech(Ours)</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen/4/GT.wav" type="audio/mpeg"></audio> </th>
@@ -384,11 +404,13 @@ table {
 <b>Content Prompt:</b> Once upon a time a mouse dwelt in the house of a merchant who owned much merchandise and great stories of monies.
 <br>
 <b>Style Prompt:</b>speaker's pitch is average, even though speaker's energy is low.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> ControlSpeech(Ours)</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen/5/GT.wav" type="audio/mpeg"></audio> </th>
@@ -404,11 +426,13 @@ table {
 <b>Content Prompt:</b> It took her a long time to understand that he had actually spoken them.
 <br>
 <b>Style Prompt:</b>Speaking rapidly, the speaker's voice reverberated powerfully, striking a lower key.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> Generated</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/1/GT.wav" type="audio/mpeg"></audio> </th>
@@ -421,11 +445,13 @@ table {
 <b>Content Prompt:</b> No, I see.
 <br>
 <b>Style Prompt:</b>The speaker expressed slowly, the speaker's words booming loud but in a low, deep tone.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> Generated</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/2/GT.wav" type="audio/mpeg"></audio> </th>
@@ -438,11 +464,13 @@ table {
 <b>Content Prompt:</b> What's to be done?
 <br>
 <b>Style Prompt:</b>The speaker expressed with a sharp clarity, maintaining a steady flow and a low loudness.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> Generated</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/3/GT.wav" type="audio/mpeg"></audio> </th>
@@ -455,11 +483,13 @@ table {
 <b>Content Prompt:</b> "That's right", approved the great Personage, glancing down complacently over his double chin.
 <br>
 <b>Style Prompt:</b>The speaker spoke in a hurried, low murmur, each word soft but fast.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> Generated</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/4/GT.wav" type="audio/mpeg"></audio> </th>
@@ -473,11 +503,13 @@ table {
 <b>Content Prompt:</b> I am safe back again.
 <br>
 <b>Style Prompt:</b>The speaker's intonation, unhurried and barely audible, carried a deep-seated note.
+<br>
+<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
 </p> 
 <table>
     <tr>
-        <th> GT</th>
-        <th> Generated</th>
+        <th> GT wav</th>
+        <th> Generated wav</th>
     </tr>
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/5/GT.wav" type="audio/mpeg"></audio> </th>
@@ -493,9 +525,7 @@ table {
 <p>
 <b>Content Prompt:</b> The patient and the surgeon are both recuperating from the lengthy operation.
 <br>
-<b>Voice Prompt:</b>
-<audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/Voice Prompt.wav" type="audio/mpeg">
-</audio>
+<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/Voice Prompt.wav" type="audio/mpeg"></audio>
 </p> 
 <table>
     <tr>
