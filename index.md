@@ -503,7 +503,7 @@ table {
     </tr> 
     <tr>
         <td> A scornful woman with a low-pitched voice spoke.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker A with Low Pitch.wav"" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker A with Low Pitch.wav" type="audio/mpeg"></audio> </th>
     </tr> 
     <tr>
         <td rowspan="2">Spaker B</td>
@@ -512,7 +512,7 @@ table {
     </tr> 
     <tr>
         <td> A scornful woman with a low-pitched voice spoke.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker B with Low Pitch.wav"" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker B with Low Pitch.wav" type="audio/mpeg"></audio> </th>
     </tr> 
     <tr>
         <td rowspan="2">Spaker C</td>
@@ -521,7 +521,7 @@ table {
     </tr> 
     <tr>
         <td> The contemptuous woman's speech unfolds slowly, with a normal tone.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker A with Slow Speed.wav"" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker A with Slow Speed.wav" type="audio/mpeg"></audio> </th>
     </tr> 
     <tr>
         <td rowspan="2">Spaker D</td>
@@ -530,7 +530,7 @@ table {
     </tr> 
     <tr>
         <td> The contemptuous woman's speech unfolds slowly, with a normal tone.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker B with Slow Speed.wav"" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Fast or Slow Speed; Normal Energy/Speaker B with Slow Speed.wav" type="audio/mpeg"></audio> </th>
     </tr> 
     <tr>
         <td rowspan="2">Spaker E</td>
@@ -539,7 +539,7 @@ table {
     </tr> 
     <tr>
         <td> The contemptuous girl's energy is low, but she speaks with a typical speed.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Normal Speed; High or Low Energy/Speaker A with Low Energy.wav"" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Normal Speed; High or Low Energy/Speaker A with Low Energy.wav" type="audio/mpeg"></audio> </th>
     </tr> 
         <tr>
         <td rowspan="2">Spaker F</td>
@@ -548,7 +548,7 @@ table {
     </tr> 
     <tr>
         <td> The contemptuous girl's energy is low, but she speaks with a typical speed.</td>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Normal Speed; High or Low Energy/Speaker B with Low Energy.wav"" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/Normal Pitch; Normal Speed; High or Low Energy/Speaker B with Low Energy.wav" type="audio/mpeg"></audio> </th>
     </tr> 
 </table>
 <br>
