@@ -575,6 +575,7 @@ table {
     <tr>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker A with Low Pitch.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/Style control for multiple speakers/High or Low Pitch; Normal Speed; Normal Energy/Speaker B with Low Pitch.wav" type="audio/mpeg"></audio> </th>
+    </tr>
 </table>
 
 
