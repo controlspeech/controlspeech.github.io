@@ -43,28 +43,6 @@ table {
 ## Compare with baselines
 <p align="justify">We provide a range of audio to exemplify the differences between ControlSpeech and the baseline models (InstructTTS, PromptStyle and PromptTTS).</p>
 
-<p>
-<b>Content Prompt:</b> Here a customer came in.<br>
-<b>Style Prompt:</b> The speaker's tone was deep and captivating.<br>
-<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/1.wav" type="audio/mpeg"></audio>
-</p> 
-<table>
-    <tr>
-        <th> GT(w/o Style)</th>
-        <th> InstructTTS</th>
-        <th> PromptTTS</th>
-        <th> PromptStyle</th>
-        <th> ControlSpeech(Ours)</th>
-    </tr>
-    <tr>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/1/GT.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/1/InstructTTS.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/1/PromptTTS.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/1/PromptStyle.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/1/ControlSpeech.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-</table>
-<br>
 
 <p>
 <b>Content Prompt:</b> He would have withdrawn from the feast had not the noise of voices allayed the smart.<br>
@@ -158,28 +136,6 @@ table {
 </table>
 <br>
 
-<p>
-<b>Content Prompt:</b> Then she cried quickly, "Stay, brother, stay! do not drink, or you will become a wild beast, and tear me to pieces."<br>
-<b>Style Prompt:</b> Speaking in a balanced tone and pace, speaker gets speaker's point across.<br>
-<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/6.wav" type="audio/mpeg"></audio>
-</p> 
-<table>
-    <tr>
-        <th> GT(w/o Style)</th>
-        <th> InstructTTS</th>
-        <th> PromptTTS</th>
-        <th> PromptStyle</th>
-        <th> ControlSpeech(Ours)</th>
-    </tr>
-    <tr>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/6/GT.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/6/InstructTTS.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/6/PromptTTS.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/6/PromptStyle.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/6/ControlSpeech.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-</table>
-<br>
 
 
 <p>
@@ -229,28 +185,6 @@ table {
 </table>
 <br>
 
-<p>
-<b>Content Prompt:</b> I see you just as feeble minded as you were before, and still expressing only despair!<br>
-<b>Style Prompt:</b> The speaker's high-energy speech is delivered swiftly, yet speaker's pitch remains steady.<br>
-<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/9.wav" type="audio/mpeg"></audio>
-</p> 
-<table>
-    <tr>
-        <th> GT(w/o Style)</th>
-        <th> InstructTTS</th>
-        <th> PromptTTS</th>
-        <th> PromptStyle</th>
-        <th> ControlSpeech(Ours)</th>
-    </tr>
-    <tr>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/9/GT.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/9/InstructTTS.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/9/PromptTTS.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/9/PromptStyle.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/9/ControlSpeech.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-</table>
-<br>
 
 <p>
 <b>Content Prompt:</b> They'd never know I'd regular ran away.<br>
@@ -275,28 +209,7 @@ table {
 </table>
 <br>
 
-<p>
-<b>Content Prompt:</b> Hold up my chin, slow and solid.<br>
-<b>Style Prompt:</b> Speaking quickly and with a low-pitched voice, speaker amazedly embodies the liveliness associated with normalcy.<br>
-<b>Voice Prompt:</b><audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/voice/11.wav" type="audio/mpeg"></audio>
-</p> 
-<table>
-    <tr>
-        <th> GT(w/o Style)</th>
-        <th> InstructTTS</th>
-        <th> PromptTTS</th>
-        <th> PromptStyle</th>
-        <th> ControlSpeech(Ours)</th>
-    </tr>
-    <tr>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/11/GT.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/11/InstructTTS.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/11/PromptTTS.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/11/PromptStyle.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/baselines/11/ControlSpeech.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-</table>
-<br>
+
 
 <p>
 <b>Content Prompt:</b> It looks much better.<br>
@@ -441,24 +354,6 @@ table {
 </table>
 <br>
 
-<p>
-<b>Content Prompt:</b> No, I see.
-<br>
-<b>Style Prompt:</b>The speaker expressed slowly, the speaker's words booming loud but in a low, deep tone.
-<br>
-<b>Voice Prompt:</b> Note that the timbre is derived from GT wav.
-</p> 
-<table>
-    <tr>
-        <th> GT wav</th>
-        <th> Generated wav</th>
-    </tr>
-    <tr>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/2/GT.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/unseen style/2/Generated.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
-</table>
-<br>
 
 <p>
 <b>Content Prompt:</b> What's to be done?
