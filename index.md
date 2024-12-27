@@ -413,7 +413,7 @@ table {
 </table>
 <br>
 
-
+<!-- 
 ## One timber with multiple styles
 <p align="justify">ControlSpeech allows multiple style controls using one timbre.</p>
 
@@ -462,10 +462,11 @@ table {
     <tr>
         <td> The happy speaker spoke rapidly, speaker's tone remaining normal.</td>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audio/One speaker with multiple styles/add/52732_4.wav" type="audio/mpeg"></audio> </th>
-    </tr> 
+    </tr>  
 </table>
 <br>
 
+-->
 
 ## Style control for multiple speakers
 <p align="justify">ControlSpeech can use multiple timbres to correspond to one style.</p>
